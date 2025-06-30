@@ -47,6 +47,7 @@ public class Standalone extends BaseTest {
 	 boolean cartprod= C1.Afteradding(prod1);
 	 Assert.assertTrue(cartprod);
 	 C1.checkoutButton();
+	 //for git
 	//driver.findElement(By.xpath("//button[@routerlink='/dashboard/cart']")).click();
 	//List<WebElement> cartt=driver.findElements(By.xpath("(//div[@class='cart']//h3)[1]"));
 	 //boolean Cartprod= cartt.stream().anyMatch(cart->cart.getText().equalsIgnoreCase(prod1));
