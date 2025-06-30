@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-30T07:03:43 PDT" name="Suite" finished-at="2025-06-30T07:03:59 PDT" duration-ms="16575">
+    <groups>
+    </groups>
+    <test started-at="2025-06-30T07:03:43 PDT" name="Test" finished-at="2025-06-30T07:03:59 PDT" duration-ms="16575">
+      <class name="AMIT.TCS.Standalone">
+        <test-method is-config="true" signature="login()[pri:0, instance:AMIT.TCS.Standalone@740cae06]" started-at="2025-06-30T07:03:43 PDT" name="login" finished-at="2025-06-30T07:03:45 PDT" duration-ms="2057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="stand()[pri:0, instance:AMIT.TCS.Standalone@740cae06]" started-at="2025-06-30T07:03:45 PDT" name="stand" finished-at="2025-06-30T07:03:59 PDT" duration-ms="14481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stand -->
+      </class> <!-- AMIT.TCS.Standalone -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
