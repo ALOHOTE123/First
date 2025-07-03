@@ -5,8 +5,8 @@
     <classes>
       <class name="AMIT.TCS.Standalone">
         <methods>
-          <include name="stand"/>
           <include name="login"/>
+          <include name="stand2"/>
         </methods>
       </class> <!-- AMIT.TCS.Standalone -->
     </classes>
